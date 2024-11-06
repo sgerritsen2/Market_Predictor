@@ -1,4 +1,4 @@
-# ML Stock_Market_Predictor
+# Machine Learning Stock Market Predictor
 
 Project Overview
 
