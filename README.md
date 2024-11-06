@@ -1,8 +1,8 @@
-# Stock_Market_Predictor
+# ML Stock_Market_Predictor
 
 Project Overview
 
-In this project, we'll predict the price of the S&P500 stock market index.
+In this project, we'll predict the price of the S&P500 stock market index using ML.
 
 Project Steps
 
